@@ -7,6 +7,7 @@ follow the Setup for install XAMPP for PHP programming........<br><br>
 +-----------------------------------------------------------------------+<br>
 
 1. find the XAMPP for the internet (ww.apachefriends.org)
+  https://www.apachefriends.org/download.html <br> and download your system version (Windows, Mac or linux)
 2. completly install the XAMPP on your PC. (set the default path for install) 
 3. go to your xampp folder on C:/xampp/htdocs
 
